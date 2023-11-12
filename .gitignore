@@ -1,0 +1,4 @@
+*.class
+*.jar
+.vscode/
+.code-workspace
